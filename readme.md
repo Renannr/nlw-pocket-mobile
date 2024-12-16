@@ -2,15 +2,20 @@
 
 Fala, dev 👋
 
-Esse projeto é parte de um curso que fiz para praticar meus conhecimentos.
+Esse projeto é parte de um curso que fiz para praticar meus conhecimentos. Embora não seja a minha primeira experiência com **React Native**, pois já desenvolvi outros aplicativos anteriormente, achei interessante o conteúdo do curso e resolvi fazê-lo para reforçar e praticar ainda mais minhas habilidades. Acredito que a prática constante é essencial para o desenvolvimento como dev, e essa foi uma ótima oportunidade para aprimorar minhas técnicas.
 
 O projeto **Nearby App** é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
 
-Esse é um projeto do evento **NLW Pocket Mobile**, um dos conteúdos disponíveis para alunos da **Rocketseat**.
+Esse é um projeto do evento **NLW Pocket Mobile**
 
 ---
 
 ## Overview do Projeto
+
+O **Nearby App** oferece as seguintes funcionalidades principais:
+
+- **Localização**: O aplicativo usa a localização do dispositivo para identificar estabelecimentos próximos a você.
+- **Leitura de QRCode**: O aplicativo utiliza a câmera do dispositivo para escanear QRCodes, permitindo o resgate de cupons.
 
 Aqui você pode inserir uma imagem demonstrando o **overview** do projeto:
 
@@ -75,15 +80,10 @@ Abra o aplicativo utilizando um emulador ou um dispositivo físico com o **Expo 
 
 ### Tecnologias Utilizadas
 
+- **React Native**
+- **Expo**
+- **Expo Router**
 - **Node.js**
 - **Prisma**
-- **Expo**
-- **React Native**
 - **TypeScript**
-- **Expo Router**
 - **Design Pattern: Composition**
-
----
-
-Espero que o projeto ajude no seu aprendizado!
-Boas codagens 🛠️💪
