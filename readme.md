@@ -48,11 +48,8 @@ cd api
 # Instale as dependências
 npm install
 
-# Configure o banco de dados com Prisma
-npx prisma migrate dev
-
 # Inicie o servidor
-npm run dev
+npm start
 ```
 
 A API rodará na porta **3333** (ou conforme configuração).
