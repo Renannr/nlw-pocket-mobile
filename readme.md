@@ -17,7 +17,6 @@ O **Nearby App** oferece as seguintes funcionalidades principais:
 - **Localização**: O aplicativo usa a localização do dispositivo para identificar estabelecimentos próximos a você.
 - **Leitura de QRCode**: O aplicativo utiliza a câmera do dispositivo para escanear QRCodes, permitindo o resgate de cupons.
 
-Aqui você pode inserir uma imagem demonstrando o **overview** do projeto:
 
 ![Overview do Projeto](./imagens/overview_app.JPG)
 
